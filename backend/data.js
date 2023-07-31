@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: '1',
       name: 'ASUS TUF Gaming GeForce GTX 1660 Ti EVO TOP Edition 6GB GDDR6 Graphics Card',
       slug: 'ASUS GTX 1660 Ti Graphics Card',
       category: 'Graphics Card',
@@ -13,6 +14,7 @@ const data = {
       description: 'High Quality Products',
     },
     {
+      _id: '2',
       name: 'AMD Ryzen 5 5600G Processor with Radeon Graphics (Chinese Edition)',
       slug: 'AMD Ryzen 5 5600G',
       category: 'Processor',
@@ -25,6 +27,7 @@ const data = {
       description: 'High Quality Products',
     },
     {
+      _id: '3',
       name: 'Samsung 970 EVO Plus 1TB NVMe M.2 SSD',
       slug: 'Samsung 970 1TB NVMe',
       category: 'SSD',
